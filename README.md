@@ -1,4 +1,4 @@
-<img alt="Gif codando" src="https://user-images.githubusercontent.com/24797370/222039813-ef7dc58c-9313-4a23-9aa8-a8b7d27a25e5.gif" align="right">
+<img style="min-width: 100%" alt="Gif codando" src="https://user-images.githubusercontent.com/24797370/222039813-ef7dc58c-9313-4a23-9aa8-a8b7d27a25e5.gif" align="right">
 
 ### Olá! Me chamo João Praia👋
 
