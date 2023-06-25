@@ -3,8 +3,8 @@
 ### Olá! Me chamo João Praia👋
 
 - 👨🏽‍💻 Trabalho com front-end
+- 👨🏽‍🎓 Estou mexendo atualmente com React JS, Python/Django, análise de dados e gamificação
 - 🥼 Iniciando a carreira de pesquisador
-- 👨🏽‍🎓 Estou estudando React JS, Python/Django, análise de dados e gamificação
 - ✉️ Contate-me: joaopraia@joaopraia.com.br
   <br>
   <br>
