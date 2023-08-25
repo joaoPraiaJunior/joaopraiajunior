@@ -1,6 +1,6 @@
 <img style="margin:28px" alt="Logo João Praia" src="https://github.com/joaoPraiaJunior/joaopraiajunior/assets/24797370/9628acc6-8761-4875-a67c-3f8e50577e7b.png" align="right">
-
 <img style="min-width: 100%" alt="Gif codando" src="https://user-images.githubusercontent.com/24797370/222039813-ef7dc58c-9313-4a23-9aa8-a8b7d27a25e5.gif" align="right">
+
 
 ### Olá! Me chamo João Praia👋
 
